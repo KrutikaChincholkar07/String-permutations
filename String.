@@ -1,0 +1,9 @@
+The formula for combination with repetition is:
+C(n+r−1,r)=r!⋅(n−1)!/(n+r−1)!
+Where:
+n = number of different items
+r = number of selections
+Example:
+If there are 3 types of items and we choose 2, then:
+
+C(3+2−1,2)=C(4,2)=6
